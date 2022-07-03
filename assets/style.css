@@ -10,4 +10,27 @@ body {
   padding-bottom: 50px;
 }
 
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}  
+
+/* @todo Nav */
+
+.hero {
+  background-image: url(./images/dog.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom center;
+  height: 100vh;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: relative;
+}
+
+
+
 
